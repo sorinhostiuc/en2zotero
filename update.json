@@ -5,7 +5,7 @@
         {
           "version": "1.0.2",
           "update_link": "https://github.com/sorinhostiuc/en2zotero/releases/download/v1.0.2/en2zotero-1.0.2.xpi",
-          "update_hash": "sha256:9a1dcce3e32c464d44d3c0744809f006237b48bd8851f8fd9dbe7eb6af5f582a",
+          "update_hash": "sha256:fe6b50968d0c8fbf5fac720deb6dabfd32678344bb7c4188236b3da53a4f2f8e",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999",
