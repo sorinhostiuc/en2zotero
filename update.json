@@ -3,9 +3,9 @@
     "en2zotero@hostiuc.com": {
       "updates": [
         {
-          "version": "1.0.2",
-          "update_link": "https://github.com/sorinhostiuc/en2zotero/releases/download/v1.0.3/en2zotero-1.0.2.xpi",
-          "update_hash": "sha256:9ae89d7429192df4655c42b44604fef8c5b1167c6c266270f62a6c5bcf400735",
+          "version": "1.0.3",
+          "update_link": "https://github.com/sorinhostiuc/en2zotero/releases/download/v1.0.3/en2zotero-1.0.3.xpi",
+          "update_hash": "sha256:7346fb1742d3fc3e2914951ac932877ecc8233856eba9789051ddcc99ac20d37",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999",
