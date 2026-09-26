@@ -31,7 +31,7 @@ The original file is preserved unless you explicitly enable overwrite.
 2. In Zotero, open **Tools > Plugins**.
 3. Choose **Install Plugin From File**, select the `.xpi`, and restart Zotero if asked.
 
-EN2Zotero supports Zotero 7 through 9.
+EN2Zotero supports Zotero 7 and later (including Zotero 10 and beyond).
 
 ## Development
 

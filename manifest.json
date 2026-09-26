@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "EN2Zotero",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert EndNote CWYW citations in Word documents to Zotero citations",
   "author": "Sorin Hostiuc",
   "homepage_url": "https://github.com/sorinhostiuc/en2zotero",
@@ -10,7 +10,7 @@
       "id": "en2zotero@hostiuc.com",
       "update_url": "https://raw.githubusercontent.com/sorinhostiuc/en2zotero/main/update.json",
       "strict_min_version": "6.999",
-      "strict_max_version": "9.*"
+      "strict_max_version": "10000000.*"
     }
   }
 }

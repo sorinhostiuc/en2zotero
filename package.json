@@ -1,6 +1,6 @@
 {
   "name": "en2zotero",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "description": "Convert EndNote Cite While You Write citations in Word documents to Zotero citations",
   "author": "Sorin Hostiuc",
